@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-anagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B418E1-6716-4EDF-993A-7B4B221F5417}|valid-anagram\\valid-anagram.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-anagram\\valid-anagram\\valid-anagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30B418E1-6716-4EDF-993A-7B4B221F5417}|valid-anagram\\valid-anagram.vcxproj|solutionrelative:valid-anagram\\valid-anagram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "valid-anagram.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-anagram\\valid-anagram\\valid-anagram.cpp",
+              "RelativeDocumentMoniker": "valid-anagram\\valid-anagram.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-anagram\\valid-anagram\\valid-anagram.cpp",
+              "RelativeToolTip": "valid-anagram\\valid-anagram.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T02:02:41.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
