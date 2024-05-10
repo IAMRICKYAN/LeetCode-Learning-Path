@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-sorted-array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005377A6-7688-4625-B4B9-6F36CEB39D2F}|merge-sorted-array\\merge-sorted-array.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-sorted-array\\merge-sorted-array\\merge-sorted-array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{005377A6-7688-4625-B4B9-6F36CEB39D2F}|merge-sorted-array\\merge-sorted-array.vcxproj|solutionrelative:merge-sorted-array\\merge-sorted-array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "merge-sorted-array.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-sorted-array\\merge-sorted-array\\merge-sorted-array.cpp",
+              "RelativeDocumentMoniker": "merge-sorted-array\\merge-sorted-array.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-sorted-array\\merge-sorted-array\\merge-sorted-array.cpp",
+              "RelativeToolTip": "merge-sorted-array\\merge-sorted-array.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T07:58:37.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
