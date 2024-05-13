@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\majority-element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB6C9F3-9868-4343-8B1F-62F0E8AEED88}|majority-element\\majority-element.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\majority-element\\majority-element\\majority-element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FB6C9F3-9868-4343-8B1F-62F0E8AEED88}|majority-element\\majority-element.vcxproj|solutionrelative:majority-element\\majority-element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "majority-element.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\majority-element\\majority-element\\majority-element.cpp",
+              "RelativeDocumentMoniker": "majority-element\\majority-element.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\majority-element\\majority-element\\majority-element.cpp",
+              "RelativeToolTip": "majority-element\\majority-element.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T01:12:55.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
