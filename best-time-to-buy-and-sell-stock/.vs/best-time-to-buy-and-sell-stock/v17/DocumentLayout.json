@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\best-time-to-buy-and-sell-stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6DF2BC-D2F3-4EAC-B0F7-3BC2C9F5E9B9}|best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C6DF2BC-D2F3-4EAC-B0F7-3BC2C9F5E9B9}|best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.vcxproj|solutionrelative:best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "best-time-to-buy-and-sell-stock.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.cpp",
+              "RelativeDocumentMoniker": "best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.cpp",
+              "RelativeToolTip": "best-time-to-buy-and-sell-stock\\best-time-to-buy-and-sell-stock.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T00:47:43.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
