@@ -1,0 +1,3 @@
+﻿  jump-game-ii.cpp
+D:\OfficeWork\Project\C++\LeetCode-Learning-Path\jump-game-ii\jump-game-ii\jump-game-ii.cpp(10,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  jump-game-ii.vcxproj -> D:\OfficeWork\Project\C++\LeetCode-Learning-Path\jump-game-ii\x64\Debug\jump-game-ii.exe
