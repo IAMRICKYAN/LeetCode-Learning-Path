@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\insert-delete-getrandom-o1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80999F2B-3659-46F5-89C1-02FB6E3D0531}|insert-delete-getrandom-o1\\insert-delete-getrandom-o1.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\insert-delete-getrandom-o1\\insert-delete-getrandom-o1\\insert-delete-getrandom-o1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80999F2B-3659-46F5-89C1-02FB6E3D0531}|insert-delete-getrandom-o1\\insert-delete-getrandom-o1.vcxproj|solutionrelative:insert-delete-getrandom-o1\\insert-delete-getrandom-o1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "insert-delete-getrandom-o1.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\insert-delete-getrandom-o1\\insert-delete-getrandom-o1\\insert-delete-getrandom-o1.cpp",
+              "RelativeDocumentMoniker": "insert-delete-getrandom-o1\\insert-delete-getrandom-o1.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\insert-delete-getrandom-o1\\insert-delete-getrandom-o1\\insert-delete-getrandom-o1.cpp",
+              "RelativeToolTip": "insert-delete-getrandom-o1\\insert-delete-getrandom-o1.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswDgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T09:28:48.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
