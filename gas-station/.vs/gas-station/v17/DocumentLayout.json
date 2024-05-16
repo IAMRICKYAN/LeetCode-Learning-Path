@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\gas-station\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA08785-AC07-49BE-A3B5-F843D2154D0E}|gas-station\\gas-station.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\gas-station\\gas-station\\gas-station.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AA08785-AC07-49BE-A3B5-F843D2154D0E}|gas-station\\gas-station.vcxproj|solutionrelative:gas-station\\gas-station.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gas-station.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\gas-station\\gas-station\\gas-station.cpp",
+              "RelativeDocumentMoniker": "gas-station\\gas-station.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\gas-station\\gas-station\\gas-station.cpp",
+              "RelativeToolTip": "gas-station\\gas-station.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T00:38:39.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
