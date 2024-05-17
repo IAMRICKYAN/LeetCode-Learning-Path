@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-words-in-a-string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4B75CD-4824-4291-A87B-11213300344D}|reverse-words-in-a-string\\reverse-words-in-a-string.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-words-in-a-string\\reverse-words-in-a-string\\reverse-words-in-a-string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F4B75CD-4824-4291-A87B-11213300344D}|reverse-words-in-a-string\\reverse-words-in-a-string.vcxproj|solutionrelative:reverse-words-in-a-string\\reverse-words-in-a-string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reverse-words-in-a-string.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-words-in-a-string\\reverse-words-in-a-string\\reverse-words-in-a-string.cpp",
+              "RelativeDocumentMoniker": "reverse-words-in-a-string\\reverse-words-in-a-string.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-words-in-a-string\\reverse-words-in-a-string\\reverse-words-in-a-string.cpp",
+              "RelativeToolTip": "reverse-words-in-a-string\\reverse-words-in-a-string.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T11:59:59.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
