@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\zigzag-conversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA010596-903E-4265-A178-DE1EB7455987}|zigzag-conversion\\zigzag-conversion.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\zigzag-conversion\\zigzag-conversion\\zigzag-conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA010596-903E-4265-A178-DE1EB7455987}|zigzag-conversion\\zigzag-conversion.vcxproj|solutionrelative:zigzag-conversion\\zigzag-conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zigzag-conversion.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\zigzag-conversion\\zigzag-conversion\\zigzag-conversion.cpp",
+              "RelativeDocumentMoniker": "zigzag-conversion\\zigzag-conversion.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\zigzag-conversion\\zigzag-conversion\\zigzag-conversion.cpp",
+              "RelativeToolTip": "zigzag-conversion\\zigzag-conversion.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T23:49:54.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
