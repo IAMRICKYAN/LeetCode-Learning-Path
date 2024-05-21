@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\text-justification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380F9B7B-5480-428D-8101-5CAF9741C59D}|text-justification\\text-justification.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\text-justification\\text-justification\\text-justification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{380F9B7B-5480-428D-8101-5CAF9741C59D}|text-justification\\text-justification.vcxproj|solutionrelative:text-justification\\text-justification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text-justification.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\text-justification\\text-justification\\text-justification.cpp",
+              "RelativeDocumentMoniker": "text-justification\\text-justification.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\text-justification\\text-justification\\text-justification.cpp",
+              "RelativeToolTip": "text-justification\\text-justification.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwC4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:07:29.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
