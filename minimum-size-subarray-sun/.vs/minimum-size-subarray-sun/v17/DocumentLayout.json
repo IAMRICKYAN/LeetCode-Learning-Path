@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-size-subarray-sun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D47A77-A02C-4292-B937-EE8D5744BCE4}|minimum-size-subarray-sun\\minimum-size-subarray-sun.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-size-subarray-sun\\minimum-size-subarray-sun\\minimum-size-subarray-sun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2D47A77-A02C-4292-B937-EE8D5744BCE4}|minimum-size-subarray-sun\\minimum-size-subarray-sun.vcxproj|solutionrelative:minimum-size-subarray-sun\\minimum-size-subarray-sun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minimum-size-subarray-sun.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-size-subarray-sun\\minimum-size-subarray-sun\\minimum-size-subarray-sun.cpp",
+              "RelativeDocumentMoniker": "minimum-size-subarray-sun\\minimum-size-subarray-sun.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-size-subarray-sun\\minimum-size-subarray-sun\\minimum-size-subarray-sun.cpp",
+              "RelativeToolTip": "minimum-size-subarray-sun\\minimum-size-subarray-sun.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T02:53:20.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
