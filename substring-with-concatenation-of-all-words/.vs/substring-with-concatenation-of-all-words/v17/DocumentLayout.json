@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\substring-with-concatenation-of-all-words\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08615E5B-2FFF-4063-A895-6BE54A0944CA}|substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08615E5B-2FFF-4063-A895-6BE54A0944CA}|substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.vcxproj|solutionrelative:substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "substring-with-concatenation-of-all-words.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.cpp",
+              "RelativeDocumentMoniker": "substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.cpp",
+              "RelativeToolTip": "substring-with-concatenation-of-all-words\\substring-with-concatenation-of-all-words.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwDAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T02:49:53.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
