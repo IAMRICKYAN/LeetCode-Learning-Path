@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-window-substring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4AD5C1-BA91-4F66-96A6-837B09E92926}|minimum-window-substring\\minimum-window-substring.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-window-substring\\minimum-window-substring\\minimum-window-substring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A4AD5C1-BA91-4F66-96A6-837B09E92926}|minimum-window-substring\\minimum-window-substring.vcxproj|solutionrelative:minimum-window-substring\\minimum-window-substring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minimum-window-substring.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-window-substring\\minimum-window-substring\\minimum-window-substring.cpp",
+              "RelativeDocumentMoniker": "minimum-window-substring\\minimum-window-substring.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-window-substring\\minimum-window-substring\\minimum-window-substring.cpp",
+              "RelativeToolTip": "minimum-window-substring\\minimum-window-substring.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T07:47:18.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
