@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FBB9F6-7AC4-4CF8-A135-858C7A829E47}|valid-sudoku\\valid-sudoku.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-sudoku\\valid-sudoku\\valid-sudoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95FBB9F6-7AC4-4CF8-A135-858C7A829E47}|valid-sudoku\\valid-sudoku.vcxproj|solutionrelative:valid-sudoku\\valid-sudoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "valid-sudoku.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-sudoku\\valid-sudoku\\valid-sudoku.cpp",
+              "RelativeDocumentMoniker": "valid-sudoku\\valid-sudoku.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\valid-sudoku\\valid-sudoku\\valid-sudoku.cpp",
+              "RelativeToolTip": "valid-sudoku\\valid-sudoku.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T23:45:57.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

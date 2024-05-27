@@ -1,0 +1,4 @@
+﻿  valid-sudoku.cpp
+D:\OfficeWork\Project\C++\LeetCode-Learning-Path\valid-sudoku\valid-sudoku\valid-sudoku.cpp(11,13): warning C4101: “column”: 未引用的局部变量
+D:\OfficeWork\Project\C++\LeetCode-Learning-Path\valid-sudoku\valid-sudoku\valid-sudoku.cpp(12,13): warning C4101: “subboxes”: 未引用的局部变量
+  valid-sudoku.vcxproj -> D:\OfficeWork\Project\C++\LeetCode-Learning-Path\valid-sudoku\x64\Debug\valid-sudoku.exe
