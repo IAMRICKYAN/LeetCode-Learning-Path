@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\spiral-matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7EB63B-6010-4D09-9929-E23163F63843}|spiral-matrix\\spiral-matrix.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\spiral-matrix\\spiral-matrix\\spiral-matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7EB63B-6010-4D09-9929-E23163F63843}|spiral-matrix\\spiral-matrix.vcxproj|solutionrelative:spiral-matrix\\spiral-matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spiral-matrix.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\spiral-matrix\\spiral-matrix\\spiral-matrix.cpp",
+              "RelativeDocumentMoniker": "spiral-matrix\\spiral-matrix.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\spiral-matrix\\spiral-matrix\\spiral-matrix.cpp",
+              "RelativeToolTip": "spiral-matrix\\spiral-matrix.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T00:20:01.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
