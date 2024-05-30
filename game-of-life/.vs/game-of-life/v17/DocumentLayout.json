@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\game-of-life\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5D1C73-F35C-4DB7-BAA6-D70662EDAA00}|game-of-life\\game-of-life.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\game-of-life\\game-of-life\\game-of-life.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B5D1C73-F35C-4DB7-BAA6-D70662EDAA00}|game-of-life\\game-of-life.vcxproj|solutionrelative:game-of-life\\game-of-life.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game-of-life.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\game-of-life\\game-of-life\\game-of-life.cpp",
+              "RelativeDocumentMoniker": "game-of-life\\game-of-life.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\game-of-life\\game-of-life\\game-of-life.cpp",
+              "RelativeToolTip": "game-of-life\\game-of-life.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T01:13:00.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
