@@ -64,6 +64,9 @@ public:
         stringstream ss(str); string s;
         for (char c : pattern) {
             //!(ss >> s) 这行语句判断是否存在单词的长度比字符串长
+            //当 ss 中没有更多的单词时，ss >> s 操作会失败，
+            //但循环仍然会继续尝试处理 pattern 中的下一个字符 "g"。然而，由于 s 仍然是之前最后一个提取的单词 "dog"
+            //这会导致rmap 的检查失败
             if (!(ss >> s) || (map.count(c) == 1 && map[c] != s) || (rmap.count(s) == 1 && rmap[s] != c)) return false;
             map[c] = s; rmap[s] = c;
         }
@@ -73,13 +76,28 @@ public:
     }
 };
 
+class Solution3 {
+public:
+    bool wordPattern(string pattern, string str) {
+        unordered_map<char, string> map;
+        unordered_map<string, char> rmap;
+        stringstream ss(str); string s;
+        for (char c : pattern) {
+            ss >> s;
+            if ((map.count(c) == 1 && map[c] != s) || (rmap.count(s) == 1 && rmap[s] != c)) return false;
+            map[c] = s; rmap[s] = c;
+        }
+        return (ss >> s) ? false : true;
+    }
+};
+
 
 
 
 int main()
 {
-    string pattern = "abba", s = "dog cat cat dog";
-    Solution sol;
+    string pattern = "abbacg", s = "dog cat cat dog";
+    Solution3 sol;
     if (sol.wordPattern(pattern, s))
     {
         cout << "true" << endl;
