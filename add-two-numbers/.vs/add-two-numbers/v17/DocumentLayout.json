@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\add-two-numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0608C9E3-1290-4C8F-B5A1-996E1852F5F6}|add-two-numbers\\add-two-numbers.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\add-two-numbers\\add-two-numbers\\add-two-numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0608C9E3-1290-4C8F-B5A1-996E1852F5F6}|add-two-numbers\\add-two-numbers.vcxproj|solutionrelative:add-two-numbers\\add-two-numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add-two-numbers.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\add-two-numbers\\add-two-numbers\\add-two-numbers.cpp",
+              "RelativeDocumentMoniker": "add-two-numbers\\add-two-numbers.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\add-two-numbers\\add-two-numbers\\add-two-numbers.cpp",
+              "RelativeToolTip": "add-two-numbers\\add-two-numbers.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T03:47:51.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
