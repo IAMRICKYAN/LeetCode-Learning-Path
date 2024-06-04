@@ -43,7 +43,7 @@ public:
             }
             else
             {
-                if (!stack.empty() && name != ".")
+                if (!name.empty() && name != ".")
                 {
                     stack.push_back(move(name));
                 }
