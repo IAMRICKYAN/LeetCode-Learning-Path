@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\copy-list-with-random-pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD86A56-59CE-49A6-8D52-924B6E2AF05D}|copy-list-with-random-pointer\\copy-list-with-random-pointer.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\copy-list-with-random-pointer\\copy-list-with-random-pointer\\copy-list-with-random-pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BD86A56-59CE-49A6-8D52-924B6E2AF05D}|copy-list-with-random-pointer\\copy-list-with-random-pointer.vcxproj|solutionrelative:copy-list-with-random-pointer\\copy-list-with-random-pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "copy-list-with-random-pointer.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\copy-list-with-random-pointer\\copy-list-with-random-pointer\\copy-list-with-random-pointer.cpp",
+              "RelativeDocumentMoniker": "copy-list-with-random-pointer\\copy-list-with-random-pointer.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\copy-list-with-random-pointer\\copy-list-with-random-pointer\\copy-list-with-random-pointer.cpp",
+              "RelativeToolTip": "copy-list-with-random-pointer\\copy-list-with-random-pointer.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T08:37:34.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
