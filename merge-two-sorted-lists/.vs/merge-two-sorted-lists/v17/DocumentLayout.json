@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-two-sorted-lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5263ED9-F5C1-4D2B-8571-4A7F6AC92162}|merge-two-sorted-lists\\merge-two-sorted-lists.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-two-sorted-lists\\merge-two-sorted-lists\\merge-two-sorted-lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5263ED9-F5C1-4D2B-8571-4A7F6AC92162}|merge-two-sorted-lists\\merge-two-sorted-lists.vcxproj|solutionrelative:merge-two-sorted-lists\\merge-two-sorted-lists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "merge-two-sorted-lists.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-two-sorted-lists\\merge-two-sorted-lists\\merge-two-sorted-lists.cpp",
+              "RelativeDocumentMoniker": "merge-two-sorted-lists\\merge-two-sorted-lists.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\merge-two-sorted-lists\\merge-two-sorted-lists\\merge-two-sorted-lists.cpp",
+              "RelativeToolTip": "merge-two-sorted-lists\\merge-two-sorted-lists.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T02:40:08.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
