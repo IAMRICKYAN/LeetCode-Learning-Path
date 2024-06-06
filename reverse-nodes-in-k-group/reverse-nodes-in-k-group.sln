@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverse-nodes-in-k-group", "reverse-nodes-in-k-group\reverse-nodes-in-k-group.vcxproj", "{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Debug|x64.ActiveCfg = Debug|x64
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Debug|x64.Build.0 = Debug|x64
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Debug|x86.ActiveCfg = Debug|Win32
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Debug|x86.Build.0 = Debug|Win32
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Release|x64.ActiveCfg = Release|x64
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Release|x64.Build.0 = Release|x64
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Release|x86.ActiveCfg = Release|Win32
+		{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71A3B56-E9A1-4543-ADAC-D4F966EC20A0}
+	EndGlobalSection
+EndGlobal
