@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-nodes-in-k-group\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}|reverse-nodes-in-k-group\\reverse-nodes-in-k-group.vcxproj|D:\\OFFICEWORK\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\VCRUNTIME_NEW.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}|reverse-nodes-in-k-group\\reverse-nodes-in-k-group.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-nodes-in-k-group\\reverse-nodes-in-k-group\\reverse-nodes-in-k-group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B93B2923-F4C1-4097-B86A-2D41CFE0FE20}|reverse-nodes-in-k-group\\reverse-nodes-in-k-group.vcxproj|solutionrelative:reverse-nodes-in-k-group\\reverse-nodes-in-k-group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "vcruntime_new.h",
+              "DocumentMoniker": "D:\\OfficeWork\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_new.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_new.h",
+              "ToolTip": "D:\\OfficeWork\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_new.h*",
+              "RelativeToolTip": "..\\..\\..\\..\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_new.h*",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwF4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-06T12:12:46.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "reverse-nodes-in-k-group.cpp",
               "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-nodes-in-k-group\\reverse-nodes-in-k-group\\reverse-nodes-in-k-group.cpp",
               "RelativeDocumentMoniker": "reverse-nodes-in-k-group\\reverse-nodes-in-k-group.cpp",
               "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\reverse-nodes-in-k-group\\reverse-nodes-in-k-group\\reverse-nodes-in-k-group.cpp",
               "RelativeToolTip": "reverse-nodes-in-k-group\\reverse-nodes-in-k-group.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAUwCEAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwB4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-05T23:51:11.561Z",
               "EditorCaption": ""

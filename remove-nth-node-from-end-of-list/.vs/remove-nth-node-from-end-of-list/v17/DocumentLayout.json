@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\remove-nth-node-from-end-of-list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988E0C00-10BC-45F5-B79D-0FDC60F981CF}|remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{988E0C00-10BC-45F5-B79D-0FDC60F981CF}|remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.vcxproj|solutionrelative:remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "remove-nth-node-from-end-of-list.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.cpp",
+              "RelativeDocumentMoniker": "remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.cpp",
+              "RelativeToolTip": "remove-nth-node-from-end-of-list\\remove-nth-node-from-end-of-list.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T01:45:35.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
