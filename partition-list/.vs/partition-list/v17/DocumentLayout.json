@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\partition-list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A95CE8C1-4E42-49E1-A937-112B2EF9ADDC}|partition-list\\partition-list.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\partition-list\\partition-list\\partition-list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A95CE8C1-4E42-49E1-A937-112B2EF9ADDC}|partition-list\\partition-list.vcxproj|solutionrelative:partition-list\\partition-list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "partition-list.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\partition-list\\partition-list\\partition-list.cpp",
+              "RelativeDocumentMoniker": "partition-list\\partition-list.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\partition-list\\partition-list\\partition-list.cpp",
+              "RelativeToolTip": "partition-list\\partition-list.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA2wBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T03:15:13.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
