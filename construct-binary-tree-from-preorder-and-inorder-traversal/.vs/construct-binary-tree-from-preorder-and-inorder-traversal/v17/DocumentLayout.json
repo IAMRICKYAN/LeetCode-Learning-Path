@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\construct-binary-tree-from-preorder-and-inorder-traversal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2EC4DD-39EB-4D05-8E4B-A520F75584D8}|construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB2EC4DD-39EB-4D05-8E4B-A520F75584D8}|construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.vcxproj|solutionrelative:construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+              "RelativeDocumentMoniker": "construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+              "RelativeToolTip": "construct-binary-tree-from-preorder-and-inorder-traversal\\construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T23:53:34.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
