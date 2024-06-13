@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\populating-next-right-pointers-in-each-node-ii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A29DDE2E-1D41-49CA-8C97-4F947FDB7B4D}|populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A29DDE2E-1D41-49CA-8C97-4F947FDB7B4D}|populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.vcxproj|solutionrelative:populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "populating-next-right-pointers-in-each-node-ii.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.cpp",
+              "RelativeDocumentMoniker": "populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.cpp",
+              "RelativeToolTip": "populating-next-right-pointers-in-each-node-ii\\populating-next-right-pointers-in-each-node-ii.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T09:44:08.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
