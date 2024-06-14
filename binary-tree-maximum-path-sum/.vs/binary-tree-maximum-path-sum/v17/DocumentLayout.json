@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-maximum-path-sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9EBCE6D-DFB1-4DCA-B9D9-902EC65F4E9D}|binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9EBCE6D-DFB1-4DCA-B9D9-902EC65F4E9D}|binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.vcxproj|solutionrelative:binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binary-tree-maximum-path-sum.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.cpp",
+              "RelativeDocumentMoniker": "binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.cpp",
+              "RelativeToolTip": "binary-tree-maximum-path-sum\\binary-tree-maximum-path-sum.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T01:45:02.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
