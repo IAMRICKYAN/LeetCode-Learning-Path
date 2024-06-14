@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\sum-root-to-leaf-numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF74EEDB-905C-4E47-B235-475A64BBC892}|sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF74EEDB-905C-4E47-B235-475A64BBC892}|sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.vcxproj|solutionrelative:sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sum-root-to-leaf-numbers.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.cpp",
+              "RelativeDocumentMoniker": "sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.cpp",
+              "RelativeToolTip": "sum-root-to-leaf-numbers\\sum-root-to-leaf-numbers.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T00:47:20.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
