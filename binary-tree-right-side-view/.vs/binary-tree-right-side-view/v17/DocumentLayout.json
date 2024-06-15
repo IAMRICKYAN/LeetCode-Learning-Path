@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-right-side-view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70BC97-DB38-421E-92E5-4ACFBA9B962D}|binary-tree-right-side-view\\binary-tree-right-side-view.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-right-side-view\\binary-tree-right-side-view\\binary-tree-right-side-view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE70BC97-DB38-421E-92E5-4ACFBA9B962D}|binary-tree-right-side-view\\binary-tree-right-side-view.vcxproj|solutionrelative:binary-tree-right-side-view\\binary-tree-right-side-view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binary-tree-right-side-view.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-right-side-view\\binary-tree-right-side-view\\binary-tree-right-side-view.cpp",
+              "RelativeDocumentMoniker": "binary-tree-right-side-view\\binary-tree-right-side-view.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-right-side-view\\binary-tree-right-side-view\\binary-tree-right-side-view.cpp",
+              "RelativeToolTip": "binary-tree-right-side-view\\binary-tree-right-side-view.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T01:29:55.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
