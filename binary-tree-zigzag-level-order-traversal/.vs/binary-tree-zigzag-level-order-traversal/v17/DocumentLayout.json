@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-zigzag-level-order-traversal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5194DE6-8D65-4940-A619-8B38386861A0}|binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5194DE6-8D65-4940-A619-8B38386861A0}|binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.vcxproj|solutionrelative:binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "binary-tree-zigzag-level-order-traversal.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.cpp",
+              "RelativeDocumentMoniker": "binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.cpp",
+              "RelativeToolTip": "binary-tree-zigzag-level-order-traversal\\binary-tree-zigzag-level-order-traversal.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwDAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T02:21:40.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
