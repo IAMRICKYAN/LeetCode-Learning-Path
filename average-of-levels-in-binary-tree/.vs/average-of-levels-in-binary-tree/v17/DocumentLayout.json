@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\average-of-levels-in-binary-tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766794B4-9FCF-4954-9FAE-DA98BF5590F4}|average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{766794B4-9FCF-4954-9FAE-DA98BF5590F4}|average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.vcxproj|solutionrelative:average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "average-of-levels-in-binary-tree.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.cpp",
+              "RelativeDocumentMoniker": "average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.cpp",
+              "RelativeToolTip": "average-of-levels-in-binary-tree\\average-of-levels-in-binary-tree.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T01:56:18.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
