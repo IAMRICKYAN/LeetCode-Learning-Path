@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\lowest-common-ancestor-of-a-binary-tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41663B4B-412F-4CEF-93D1-CB0EF58C8687}|lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41663B4B-412F-4CEF-93D1-CB0EF58C8687}|lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.vcxproj|solutionrelative:lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lowest-common-ancestor-of-a-binary-tree.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.cpp",
+              "RelativeDocumentMoniker": "lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.cpp",
+              "RelativeToolTip": "lowest-common-ancestor-of-a-binary-tree\\lowest-common-ancestor-of-a-binary-tree.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T01:17:34.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
