@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\validate-binary-search-tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4DFAC4-D7F5-4079-A7F5-CB134614B032}|validate-binary-search-tree\\validate-binary-search-tree.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\validate-binary-search-tree\\validate-binary-search-tree\\validate-binary-search-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4DFAC4-D7F5-4079-A7F5-CB134614B032}|validate-binary-search-tree\\validate-binary-search-tree.vcxproj|solutionrelative:validate-binary-search-tree\\validate-binary-search-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "validate-binary-search-tree.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\validate-binary-search-tree\\validate-binary-search-tree\\validate-binary-search-tree.cpp",
+              "RelativeDocumentMoniker": "validate-binary-search-tree\\validate-binary-search-tree.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\validate-binary-search-tree\\validate-binary-search-tree\\validate-binary-search-tree.cpp",
+              "RelativeToolTip": "validate-binary-search-tree\\validate-binary-search-tree.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwDMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T02:21:53.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
