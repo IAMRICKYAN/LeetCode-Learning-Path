@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-islands\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1709D7-E060-4E9D-B916-3B9CBA07F85B}|number-of-islands\\number-of-islands.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-islands\\number-of-islands\\number-of-islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF1709D7-E060-4E9D-B916-3B9CBA07F85B}|number-of-islands\\number-of-islands.vcxproj|solutionrelative:number-of-islands\\number-of-islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "number-of-islands.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-islands\\number-of-islands\\number-of-islands.cpp",
+              "RelativeDocumentMoniker": "number-of-islands\\number-of-islands.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-islands\\number-of-islands\\number-of-islands.cpp",
+              "RelativeToolTip": "number-of-islands\\number-of-islands.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T23:34:16.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
