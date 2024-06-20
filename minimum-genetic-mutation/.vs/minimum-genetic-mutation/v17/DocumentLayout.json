@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-genetic-mutation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7413C18-2092-4079-B356-F5B65F161166}|minimum-genetic-mutation\\minimum-genetic-mutation.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-genetic-mutation\\minimum-genetic-mutation\\minimum-genetic-mutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7413C18-2092-4079-B356-F5B65F161166}|minimum-genetic-mutation\\minimum-genetic-mutation.vcxproj|solutionrelative:minimum-genetic-mutation\\minimum-genetic-mutation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minimum-genetic-mutation.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-genetic-mutation\\minimum-genetic-mutation\\minimum-genetic-mutation.cpp",
+              "RelativeDocumentMoniker": "minimum-genetic-mutation\\minimum-genetic-mutation.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\minimum-genetic-mutation\\minimum-genetic-mutation\\minimum-genetic-mutation.cpp",
+              "RelativeToolTip": "minimum-genetic-mutation\\minimum-genetic-mutation.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-20T00:42:41.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
