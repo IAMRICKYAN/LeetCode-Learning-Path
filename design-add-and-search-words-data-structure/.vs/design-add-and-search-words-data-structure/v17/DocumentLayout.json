@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\design-add-and-search-words-data-structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8BCBED-949B-4CCA-9FBD-46A59D2DA07F}|design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A8BCBED-949B-4CCA-9FBD-46A59D2DA07F}|design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.vcxproj|solutionrelative:design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "design-add-and-search-words-data-structure.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.cpp",
+              "RelativeDocumentMoniker": "design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.cpp",
+              "RelativeToolTip": "design-add-and-search-words-data-structure\\design-add-and-search-words-data-structure.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T03:02:48.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
