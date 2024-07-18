@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\n-queens-ii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{011A1BD1-D0DC-40AA-9831-A8D67296E0A1}|n-queens-ii\\n-queens-ii.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\n-queens-ii\\n-queens-ii\\n-queens-ii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{011A1BD1-D0DC-40AA-9831-A8D67296E0A1}|n-queens-ii\\n-queens-ii.vcxproj|solutionrelative:n-queens-ii\\n-queens-ii.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "n-queens-ii.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\n-queens-ii\\n-queens-ii\\n-queens-ii.cpp",
+              "RelativeDocumentMoniker": "n-queens-ii\\n-queens-ii.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\n-queens-ii\\n-queens-ii\\n-queens-ii.cpp",
+              "RelativeToolTip": "n-queens-ii\\n-queens-ii.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T02:27:38.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
