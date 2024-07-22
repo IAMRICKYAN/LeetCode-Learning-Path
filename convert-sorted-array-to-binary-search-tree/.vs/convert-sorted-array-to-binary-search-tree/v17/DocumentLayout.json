@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\convert-sorted-array-to-binary-search-tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C23984-96F2-4AF1-B019-A9ACBBA776C3}|convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67C23984-96F2-4AF1-B019-A9ACBBA776C3}|convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.vcxproj|solutionrelative:convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convert-sorted-array-to-binary-search-tree.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.cpp",
+              "RelativeDocumentMoniker": "convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.cpp",
+              "RelativeToolTip": "convert-sorted-array-to-binary-search-tree\\convert-sorted-array-to-binary-search-tree.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T02:56:19.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
