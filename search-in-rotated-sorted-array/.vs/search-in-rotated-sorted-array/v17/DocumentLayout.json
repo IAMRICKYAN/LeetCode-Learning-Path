@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\search-in-rotated-sorted-array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{528C9A24-38FB-4DBC-80C8-10903E344CCA}|search-in-rotated-sorted-array\\search-in-rotated-sorted-array.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\search-in-rotated-sorted-array\\search-in-rotated-sorted-array\\search-in-rotated-sorted-array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{528C9A24-38FB-4DBC-80C8-10903E344CCA}|search-in-rotated-sorted-array\\search-in-rotated-sorted-array.vcxproj|solutionrelative:search-in-rotated-sorted-array\\search-in-rotated-sorted-array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "search-in-rotated-sorted-array.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\search-in-rotated-sorted-array\\search-in-rotated-sorted-array\\search-in-rotated-sorted-array.cpp",
+              "RelativeDocumentMoniker": "search-in-rotated-sorted-array\\search-in-rotated-sorted-array.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\search-in-rotated-sorted-array\\search-in-rotated-sorted-array\\search-in-rotated-sorted-array.cpp",
+              "RelativeToolTip": "search-in-rotated-sorted-array\\search-in-rotated-sorted-array.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T09:27:29.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
