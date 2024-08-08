@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-1-bits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9C918-DC58-4D12-B499-1C3657C67DEC}|number-of-1-bits\\number-of-1-bits.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-1-bits\\number-of-1-bits\\number-of-1-bits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CE9C918-DC58-4D12-B499-1C3657C67DEC}|number-of-1-bits\\number-of-1-bits.vcxproj|solutionrelative:number-of-1-bits\\number-of-1-bits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "number-of-1-bits.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-1-bits\\number-of-1-bits\\number-of-1-bits.cpp",
+              "RelativeDocumentMoniker": "number-of-1-bits\\number-of-1-bits.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\number-of-1-bits\\number-of-1-bits\\number-of-1-bits.cpp",
+              "RelativeToolTip": "number-of-1-bits\\number-of-1-bits.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T08:10:54.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
