@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\bitwise-and-of-numbers-range\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CE26D6-8B99-4893-8ADC-988E7BE5ABBF}|bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38CE26D6-8B99-4893-8ADC-988E7BE5ABBF}|bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.vcxproj|solutionrelative:bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bitwise-and-of-numbers-range.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.cpp",
+              "RelativeDocumentMoniker": "bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.cpp",
+              "RelativeToolTip": "bitwise-and-of-numbers-range\\bitwise-and-of-numbers-range.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T02:29:27.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
