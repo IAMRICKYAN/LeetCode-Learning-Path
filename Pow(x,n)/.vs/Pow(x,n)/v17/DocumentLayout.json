@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\Pow(x,n)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5407293-9864-4C60-9DD9-C104917FD0A2}|Pow(x,n)\\Pow(x,n).vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\Pow(x,n)\\Pow(x,n)\\Pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5407293-9864-4C60-9DD9-C104917FD0A2}|Pow(x,n)\\Pow(x,n).vcxproj|solutionrelative:Pow(x,n)\\Pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pow.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\Pow(x,n)\\Pow(x,n)\\Pow.cpp",
+              "RelativeDocumentMoniker": "Pow(x,n)\\Pow.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\Pow(x,n)\\Pow(x,n)\\Pow.cpp",
+              "RelativeToolTip": "Pow(x,n)\\Pow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T00:59:52.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
