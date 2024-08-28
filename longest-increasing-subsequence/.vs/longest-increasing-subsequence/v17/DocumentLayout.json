@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\longest-increasing-subsequence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E067C6AA-B225-4840-ABCE-857D91A5A53C}|longest-increasing-subsequence\\longest-increasing-subsequence.vcxproj|D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\longest-increasing-subsequence\\longest-increasing-subsequence\\longest-increasing-subsequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E067C6AA-B225-4840-ABCE-857D91A5A53C}|longest-increasing-subsequence\\longest-increasing-subsequence.vcxproj|solutionrelative:longest-increasing-subsequence\\longest-increasing-subsequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "longest-increasing-subsequence.cpp",
+              "DocumentMoniker": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\longest-increasing-subsequence\\longest-increasing-subsequence\\longest-increasing-subsequence.cpp",
+              "RelativeDocumentMoniker": "longest-increasing-subsequence\\longest-increasing-subsequence.cpp",
+              "ToolTip": "D:\\OfficeWork\\Project\\C\u002B\u002B\\LeetCode-Learning-Path\\longest-increasing-subsequence\\longest-increasing-subsequence\\longest-increasing-subsequence.cpp",
+              "RelativeToolTip": "longest-increasing-subsequence\\longest-increasing-subsequence.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T06:58:54.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
